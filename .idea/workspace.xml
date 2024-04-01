@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0c92a1ca-7d82-4ff2-be30-c353c9d028c7" name="Changes" comment="无" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +82,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711967303582</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="无">
+      <option name="closed" value="true" />
+      <created>1711967471415</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711967471415</updated>
+    </task>
+    <task id="LOCAL-00005" summary="无">
+      <option name="closed" value="true" />
+      <created>1711967527061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711967527061</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -12,7 +12,6 @@ from docx.parts.image import ImagePart
 import xml.etree.ElementTree as ET
 from PIL import Image
 
-
 def handle_picture(part):
     '''
     处理保存的图片转化成md可显示的png图片

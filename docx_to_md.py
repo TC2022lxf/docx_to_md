@@ -62,6 +62,7 @@ def is_embed(para: Paragraph, doc: Document):
     return None
 
 
+
 def is_image(para: Paragraph, doc: Document):
     images = para._element.xpath('.//pic:pic')  # 获取所有图片
     for image in images:
